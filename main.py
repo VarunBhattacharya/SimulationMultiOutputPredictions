@@ -34,7 +34,7 @@ class ModelPredictions:
 
 #driver
 if __name__ == "__main__":
-    model_path = 'modelWeightsSolverLBFGS.pkl'
+    model_path = 'model/modelWeightsSolverLBFGS.pkl'
     modelObj = ModelPredictions(model_path)
 
     #arr = [12.5, 35, 250, 75] #output = 69.547, 0, 7.54
