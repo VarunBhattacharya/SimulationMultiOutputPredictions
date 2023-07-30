@@ -2,9 +2,11 @@
 Uses a MIMO based approach for prediction of MRR, TWR and Residual Stress using transfer learning deep learning approach.
 
 ### Installation
-1.) Clone the repository [https://github.com/VarunBhattacharya/SimulationMultiOutputPredictions.git](https://github.com/VarunBhattacharya/SimulationMultiOutputPredictions.git) or download the zip file.<br />
-2.) Extract the zip file.<br />
-3.) Run main.py file.
+<ol>
+  <li>Clone the repository [https://github.com/VarunBhattacharya/SimulationMultiOutputPredictions.git](https://github.com/VarunBhattacharya/SimulationMultiOutputPredictions.git) or download the zip file.</li>
+  <li>Extract the zip file.</li>
+  <li>Run main.py file.</li>
+</ol>
 
 ### Process
 <ul>
