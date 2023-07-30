@@ -1,8 +1,8 @@
-# SimulationMultiOutputPredictions
+# Simulation For MIMO Prediction based on transfer learning deep learning method
 Uses a MIMO based approach for prediction of MRR, TWR and Residual Stress using transfer learning deep learning approach.
 
 ### Installation
-1.) Clone the repository www.google.com or download the zip file.<br />
+1.) Clone the repository [https://github.com/VarunBhattacharya/SimulationMultiOutputPredictions.git](https://github.com/VarunBhattacharya/SimulationMultiOutputPredictions.git) or download the zip file.<br />
 2.) Extract the zip file.<br />
 3.) Run main.py file.
 
